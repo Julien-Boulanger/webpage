@@ -28,7 +28,7 @@ with Erwan Lanneau and Daniel Massart, 2022. <em>Submitted</em>.
 5. Lower bound for KVol on the minimal stratum of translation surfaces, 2023. <em>Submitted</em>.
 <a href="https://arxiv.org/abs/2310.00130"> https://arxiv.org/abs/2310.00130 </a>
 
-<center>
-<img src="/assets/img/doubleheptagone.png" width="50%" alt="doubleheptagone.png"><br>
-<small> Identifying parallel sides of two copies of a regular heptagon gives a translation surface also reffered to as the double heptagon. </small>
-</center>
+%<center>
+%<img src="/assets/img/doubleheptagone.png" width="50%" alt="doubleheptagone.png"><br>
+%<small> Identifying parallel sides of two copies of a regular heptagon gives a translation surface also reffered to as the double heptagon. </small>
+%</center>
