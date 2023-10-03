@@ -21,15 +21,15 @@
 title: Julien Boulanger
 logo: /assets/img/logo.jpg
 description: Contact me - <br> <small> julien(dot)boulanger(at)univ-grenoble-alpes(dot)fr </small>
-baseurl: "webpage" # the subpath of your site, e.g. /blog
+baseurl: "website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-minimal
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

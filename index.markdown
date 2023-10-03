@@ -9,6 +9,8 @@ Here is my [CV](/assets/CV_Boulanger.pdf).
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups. My other mathematical interests include representations of Fuschian groups,
 continued fractions and Anosov dynamics.
 
+I also organise the "Séminaire compréhensible", which is the PhD students seminar of the Institut Fourier. The seminar is usually held on Thursdays and the forthcoming speakers are announced on the <a href="https://www-fourier.ujf-grenoble.fr/"> Institut Fourier website</a>.
+
 <h2> Publications and preprints: </h2>
 1. Central points of the double heptagon translation surface are not connection points.
 Published at the <em>Bulletin de la SMF</em>, 2022, Vol.2. 
@@ -27,3 +29,6 @@ with Erwan Lanneau and Daniel Massart, 2022. <em>Submitted</em>.
 
 5. Lower bound for KVol on the minimal stratum of translation surfaces, 2023. <em>Submitted</em>.
 <a href="https://arxiv.org/abs/2310.00130"> https://arxiv.org/abs/2310.00130 </a>
+
+<h2> Enseignement </h2>
+MAT 133. [Correction of exercises 28 and 29](/assets/ex2829.pdf).
