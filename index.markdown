@@ -9,7 +9,7 @@ Here is my [CV](/assets/CV_Boulanger.pdf).
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups. My other mathematical interests include representations of Fuschian groups,
 continued fractions and Anosov dynamics.
 
-<h2> Publications and preprints : </h2>
+<h2> Publications and preprints: </h2>
 1. Central points of the double heptagon translation surface are not connection points.
 Published at the <em>Bulletin de la SMF</em>, 2022, Vol.2. 
 <a href="https://arxiv.org/abs/2009.01748"> https://arxiv.org/abs/2009.01748 </a>
@@ -27,8 +27,3 @@ with Erwan Lanneau and Daniel Massart, 2022. <em>Submitted</em>.
 
 5. Lower bound for KVol on the minimal stratum of translation surfaces, 2023. <em>Submitted</em>.
 <a href="https://arxiv.org/abs/2310.00130"> https://arxiv.org/abs/2310.00130 </a>
-
-%<center>
-%<img src="/assets/img/doubleheptagone.png" width="50%" alt="doubleheptagone.png"><br>
-%<small> Identifying parallel sides of two copies of a regular heptagon gives a translation surface also reffered to as the double heptagon. </small>
-%</center>
