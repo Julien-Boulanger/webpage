@@ -1,0 +1,4 @@
+<h1>This is the home layout<h1>
+<hr>
+
+{{ content }}
