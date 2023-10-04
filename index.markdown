@@ -4,7 +4,7 @@ layout: default
 
 I am a third year PhD student at the Institut Fourier (Grenoble)
 under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>.
-Here is my [CV](/assets/CV_Boulanger.pdf).
+#Here is my [CV](/assets/CV_Boulanger.pdf).
 
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups. My other mathematical interests include representations of Fuschian groups,
 continued fractions and Anosov dynamics.
