@@ -31,3 +31,6 @@ with Erwan Lanneau and Daniel Massart, 2022. <em>Submitted</em>.
 
 <h2> Enseignement </h2>
 MAT 133. [Correction of exercises 28 and 29](/assets/ex2829.pdf).
+
+<h2> PhD defense </h2>
+[Here](/assets/fiche_explicative.pdf) is a small explanation of what I will talk about during my PhD defense. You can also see the slides [Here](/assets/Soutenance.pdf).
