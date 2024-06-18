@@ -4,7 +4,7 @@ layout: default
 
 I have defended my PhD in December 2023 under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>. From September 2024 onwards I will be a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile.
 
-I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups. My other mathematical interests include representations of Fuschian groups,
+I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups. My other mathematical interests include interval exchange transformations,
 continued fractions and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf).
 
 <h2> Publications and preprints: </h2>
