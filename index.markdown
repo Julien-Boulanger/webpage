@@ -15,7 +15,7 @@ continued fractions and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and
 
 <h2> Published and accepted papers </h2>
 
-4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
+{4.} Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
 <a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.
 
 3. Algebraic intersection in regular polygons,
