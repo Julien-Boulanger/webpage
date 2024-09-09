@@ -41,4 +41,4 @@ I started my PhD on September 2021 under the supervision of Erwan Lanneau and Da
   <source src="assets/img/Dom_fond_penta.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
-A fundamental domain for the SL(2,R)-orbit of the golden L.
+A fundamental domain for the SL(2,R)-orbit of the golden L in the moduli space of translation surfaces.
