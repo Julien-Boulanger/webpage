@@ -9,9 +9,9 @@ continued fractions and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and
 
 <h2> Preprints </h2>
 
-6. Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024. <a href="https://arxiv.org/abs/2409.01711"> see on arxiv </a>.
+6. Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024. <a href="https://arxiv.org/abs/2409.01711"> see on arxiv</a>.
 
-5. Algebraic intersection, lengths and Veech surfaces, 2023. <a href="https://arxiv.org/abs/2309.17165"> See on arxiv </a>.
+5. Algebraic intersection, lengths and Veech surfaces, 2023. <a href="https://arxiv.org/abs/2309.17165"> See on arxiv</a>.
 
 <h2> Published and accepted papers </h2>
 
