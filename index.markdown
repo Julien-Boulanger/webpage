@@ -36,3 +36,9 @@ with Sam Freedman, 2022. <em>Comptes rendus de l'académie des sciences</em>. Vo
 
 <h2> PhD defense </h2>
 I started my PhD on September 2021 under the supervision of Erwan Lanneau and Daniel Massart and defended in December 2023 at the Institut Fourier, Université Grenoble Alpes. The slides are available [here](/assets/Soutenance.pdf) as well as the [manuscript](/assets/manuscript.pdf). You can also find [here](/assets/fiche_explicative.pdf) a small explication of my work which was meant for non-matematicians attending my PhD defense.
+
+<video width="320" height="240" autoplay muted>
+  <source src="assets/img/dom_fond_penta.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+A fundamental domain for the SL(2,R)-orbit of the golden L.
