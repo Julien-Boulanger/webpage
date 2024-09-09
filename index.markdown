@@ -33,4 +33,4 @@ with Sam Freedman, 2022. <em>Comptes rendus de l'académie des sciences</em>. Vo
 <a href="https://smf.emath.fr/publications/les-points-centraux-du-double-heptagone-ne-sont-pas-des-points-de-connexion"> See on the SMF webpage </a>.
 
 <h2> PhD defense </h2>
-See the [slides](/assets/Soutenance.pdf) or the [manuscript](/assets/manuscript.pdf). [Here](/assets/fiche_explicative.pdf) is also a small explication of my work (which was meant for non-matematicians attending my PhD defense).
+I started my PhD on September 2021 under the supervision of Erwan Lanneau and Daniel Massart and defended in December 2023 at the Institut Fourier, Université Grenoble Alpes. The slides are available [here](/assets/Soutenance.pdf) as well as the [manuscript](/assets/manuscript.pdf). You can also find [here](/assets/fiche_explicative.pdf) a small explication of my work which was meant for non-matematicians attending my PhD defense.
