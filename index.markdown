@@ -9,7 +9,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 
 <h2> Preprints </h2>
 
-%7. Connection points on regular polygons, <em> To appear </em>. 2025.
+7. Connection points on regular polygons, <em> To appear </em>. 2025.
 
 6. Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024. <a href="https://arxiv.org/abs/2409.01711"> See on arxiv</a>.
 
