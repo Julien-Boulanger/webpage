@@ -22,7 +22,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 
 3. Algebraic intersection in regular polygons,
 with Erwan Lanneau and Daniel Massart, 2022. <em> Annales Henri Lebesgue </em>. Volume 7 (2024), pp. 787-821.
-<a href="https://arxiv.org/abs/2110.14235"> See on arxiv</a> or < href="https://ahl.centre-mersenne.org/articles/10.5802/ahl.211/"> See on the AHL website</a>.
+<a href="https://arxiv.org/abs/2110.14235"> See on arxiv</a> or <a href="https://ahl.centre-mersenne.org/articles/10.5802/ahl.211/"> See on the AHL website</a>.
 
 2. There are no primitive Teichmüller curves in Prym(2,2),
 with Sam Freedman, 2022. <em>Comptes rendus de l'académie des sciences</em>. Volume 362 (2024), pp. 167-170.
