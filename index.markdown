@@ -11,7 +11,7 @@ img {
 </head>
 <body>
 
-<img src="assets/img/logo.png" alt="logo">
+<img src="assets/img/logo.jpg" alt="logo">
 Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
 
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups, but I am also interested in interval exchange transformations,
