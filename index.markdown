@@ -2,21 +2,21 @@
 layout: default
 ---
 <img src="assets/img/logo.jpg" alt="logo" style="float:right;width:312px;height:246px;margin-left:5px;">
-Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.</br>
+Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
 
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups, but I am also interested in interval exchange transformations,
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 <h2> Preprints </h2>
 
-7. Connection points on regular polygons, <em> To appear </em>. 2025.</br>
+7. Connection points on regular polygons, <em> To appear </em>. 2025.
 
 6. Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024. <a href="https://arxiv.org/abs/2409.01711"> See on arxiv</a>.
 
 5. Algebraic intersection, lengths and Veech surfaces, 2023. <a href="https://arxiv.org/abs/2309.17165"> See on arxiv</a>.
 
 <h2> Published papers </h2>
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:211px;margin-left:5px;">
+<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:300px;margin-left:5px;">
 4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
 <a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.
 
