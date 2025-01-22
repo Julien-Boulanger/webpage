@@ -26,7 +26,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 5. Algebraic intersection, lengths and Veech surfaces, 2023. <a href="https://arxiv.org/abs/2309.17165"> See on arxiv</a>.
 
 <h2> Published papers </h2>
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface",style="float:right;">
+<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface">
 4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
 <a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.
 
