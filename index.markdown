@@ -5,7 +5,7 @@ layout: default
 <head>
 <style>
 img {
-  float: left;
+  float: right;
 }
 </style>
 </head>
