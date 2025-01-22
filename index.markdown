@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-<p>
 <img src="assets/img/logo.png" alt="logo",style="float:right;">
 
 Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
 
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups, but I am also interested in interval exchange transformations,
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
-</p>
 
 <h2> Preprints </h2>
 
