@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
+Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.<img src="assets/img/logo.png" alt="logo">
+
 
 I am interested in dynamics and geometry of surfaces. I specifically study translation surfaces and their Veech groups, but I am also interested in interval exchange transformations,
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
@@ -18,7 +19,8 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 <h2> Published papers </h2>
 
 4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
-<a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.
+<a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface">
+
 
 3. Algebraic intersection in regular polygons,
 with Erwan Lanneau and Daniel Massart, 2022. <em> Annales Henri Lebesgue </em>. Volume 7 (2024), pp. 787-821.
@@ -33,8 +35,6 @@ with Sam Freedman, 2022. <em>Comptes rendus de l'académie des sciences</em>. Vo
 <em>Bulletin de la SMF</em>, Vol.150(2) (2022), pp. 459-472. 
 <a href="https://arxiv.org/abs/2009.01748"> See on arxiv</a> or
 <a href="https://smf.emath.fr/publications/les-points-centraux-du-double-heptagone-ne-sont-pas-des-points-de-connexion"> see on the SMF webpage</a>.
-
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface">
 
 <h2> PhD defense </h2>
 I started my PhD on September 2021 under the supervision of Erwan Lanneau and Daniel Massart and defended in December 2023 at the Institut Fourier, Université Grenoble Alpes. The slides are available [here](/assets/Soutenance.pdf) as well as the [manuscript](/assets/manuscript.pdf). You can also find [here](/assets/fiche_explicative.pdf) a small explication of my work which was meant for non-matematicians attending my PhD defense.
