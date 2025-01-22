@@ -2,7 +2,7 @@
 layout: default
 ---
 <p>
-<img src="assets/img/logo.png" alt="logo",style="float:right">
+<img src="assets/img/logo.png" alt="logo",style="float:right;">
 
 Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
 
@@ -20,7 +20,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 
 <h2> Published papers </h2>
 <p>
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface",style="float:right">
+<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface",style="float:right;">
 4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
 <a href="https://link.springer.com/article/10.1007/s10711-024-00937-9"> see on Springer Link</a>.
 
