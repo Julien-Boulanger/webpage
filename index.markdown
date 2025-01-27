@@ -15,7 +15,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 6. Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024. <a href="https://arxiv.org/abs/2409.01711"> See on arxiv</a>.
 
 <h2> Publications </h2>
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:300px;margin-left:5px;">
+<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:415px;margin-left:5px;">
 5. Algebraic intersection, lengths and Veech surfaces, To appear in the <em> Annali della Scuola Normale Superiore di Pisa - Classe di Scienze </em> 2025. <a href="https://arxiv.org/abs/2309.17165"> See on arxiv</a>.
 
 4. Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <a href="https://arxiv.org/abs/2310.00130"> See on arxiv</a> or
