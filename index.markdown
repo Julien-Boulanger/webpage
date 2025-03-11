@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<style>
+.button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+</style>
+
 <img src="assets/img/logo.jpg" alt="logo" style="float:right;width:250px;height:197px;margin-left:5px;">
 Since September 2024 I am a postdoc researcher at the <a href="https://www.cmm.uchile.cl//"> Centro de Modelamiento matematico </a> in Santiago de Chile, with <em>Rodolfo Gutiérrez-Romo</em>. Prior to that I did my PhD at the Université Grenoble alpes under the supervision of <em>Erwan Lanneau</em> and <em>Daniel Massart</em>, on some geometric problems around translation surfaces.
 
@@ -10,6 +19,7 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 <h2> Preprints </h2>
 
 (7) Connection points on double regular polygons, 2025. <a href="https://arxiv.org/abs/2501.14657"> See on arxiv</a>.
+<button class="button">Blue</button>
 <div style="display:none;">
 We study connection points on the double regular n-gon translation surface, for n≥7 odd and its staircase model. For n≠9, we provide a large family of points with coordinates in the trace field that are not connection points. This family includes the central points, and for n=7 we conjecture that all the remaining points are connection points. Further, in the case where n≥7 is a prime number, we provide a constructive proof by exhibiting an explicit separatrix passing through a central point that does not extend to a saddle connection. </div>
 
@@ -48,3 +58,5 @@ I started my PhD on September 2021 under the supervision of Erwan Lanneau and Da
 Your browser does not support the video tag.
 </video> 
 A fundamental domain for the SL(2,R)-orbit of the golden L in the moduli space of translation surfaces.
+
+<img src="assets/img/photo.jpg" alt="logo" style="float:right;width:220px;height:329px;margin-left:5px;">
