@@ -8,6 +8,7 @@ layout: default
   color: black; 
   border: 2px solid #008CBA;
   border-radius: 3px;
+  padding: 0px 5px;
 }
 </style>
 
