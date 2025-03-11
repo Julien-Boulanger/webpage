@@ -38,7 +38,7 @@ We study connection points on the double regular n-gon translation surface, for 
 <h2> Publications </h2>
 <img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:422px;margin-left:5px;">
 (5) Algebraic intersection, lengths and Veech surfaces, To appear in the <em> Annali della Scuola Normale Superiore di Pisa - Classe di Scienze </em> (2025).<br>
- <a href="https://arxiv.org/abs/2309.17165" class="button"> Arxiv</a>
+ <a href="https://arxiv.org/abs/2309.17165" class="button"> Arxiv</a> or <a href="https://journals.sns.it/index.php/annaliscienze/article/view/6813/2259" class="button"> Journal </a>
 
 (4) Lower bound for KVol on the minimal stratum of translation surfaces. <em>Geometria Dedicata</em> 218, 88 (2024). <br>
 <a href="https://arxiv.org/abs/2310.00130" class="button"> Arxiv</a> or
