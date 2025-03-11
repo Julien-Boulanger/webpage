@@ -21,8 +21,8 @@ continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV]
 <h2> News </h2>
 I'll be in France in may and june. Don't hesitate to contact me if you are interested in my research!<br>
 
-I was in Montevideo between February 17 and March 7 and I gave a talk at the dynamical systems seminar on my work on connection points. See the <a href="assets/slides_motevideo.pdf"> slides </a> (in spanish)
-or a <a href="assets/slides_oregon.pdf"> very close english version</a> which I used for the (online) number theory seminar of Oregon state University in january.
+I was in Montevideo between February 17 and March 7 and I gave a talk at the dynamical systems seminar on my work on connection points. See the <a href="assets/Slides_Montevideo.pdf"> slides </a> (in spanish)
+or a [very close english version](/assets/Slides_Oregon.pdf) </a> which I used for the (online) number theory seminar of Oregon state University in january.
 
 <h2> Preprints </h2>
 
