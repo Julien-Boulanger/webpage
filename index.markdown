@@ -19,10 +19,8 @@ I am interested in dynamics and geometry of surfaces. I specifically study trans
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 <h2> News </h2>
-I'll be in France in may and june. Don't hesitate to contact me if you are interested in my research!<br>
-
-I was in Montevideo between February 17 and March 7 and I gave a talk at the dynamical systems seminar on my work on connection points. See the <a href="assets/Slides_Montevideo.pdf"> slides </a> (in spanish)
-or a [very close english version](/assets/Slides_Oregon.pdf) which I used for the (online) number theory seminar of Oregon state University in january.
+See <a href="assets/Slides_Montevideo.pdf"> slides </a> (in spanish)
+or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint about connection points on double regular polygons.
 
 <h2> Preprints </h2>
 
@@ -45,11 +43,11 @@ We study connection points on the double regular n-gon translation surface, for 
 <a href="https://link.springer.com/article/10.1007/s10711-024-00937-9" class="button"> Journal</a>
 
 (3) Algebraic intersection in regular polygons,
-with Erwan Lanneau and Daniel Massart, 2022. <em> Annales Henri Lebesgue </em>. Volume 7 (2024), pp. 787-821.<br>
+with Erwan Lanneau and Daniel Massart. <em> Annales Henri Lebesgue </em>. Volume 7 (2024), pp. 787-821.<br>
 <a href="https://arxiv.org/abs/2110.14235" class="button"> Arxiv</a> or <a href="https://ahl.centre-mersenne.org/articles/10.5802/ahl.211/" class="button"> Journal</a>
 
 (2) There are no primitive Teichmüller curves in Prym(2,2),
-with Sam Freedman, 2022. <em>Comptes rendus de l'académie des sciences</em>. Volume 362 (2024), pp. 167-170.<br>
+with Sam Freedman. <em>Comptes rendus Mathematiques</em>. Volume 362 (2024), pp. 167-170.<br>
 <a href="https://arxiv.org/abs/2211.09737" class="button"> Arxiv</a> or
 <a href="https://comptes-rendus.academie-sciences.fr/mathematique/articles/10.5802/crmath.551/" class="button"> Journal</a>
 
