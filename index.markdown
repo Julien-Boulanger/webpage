@@ -19,22 +19,28 @@ I am interested in dynamics and geometry of surfaces. I specifically study trans
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 <h2> News </h2>
+<a href="https://arxiv.org/abs/2509.05210"> New preprint </a> available on arXiv: "Algebraic interaction strength for translation surfaces with several singularities". The paper studies how pairs of curves intersect on families of translation surfaces built from (semi-)regular polygons. In this type of study (but also in the study of the systole, for example), it is often difficult to deal with several singularities as in this case geodesics can "change direction" at singularities. The main contribution of this paper is to deal with this type of surfaces and study the interaction strength of two families of translation surfaces with two (resp. any number) of singularities: the regular $4m+2-$gons and the Bouw-Möller surfaces $S_{m,n}$ with $1 < gcd(m,n) < n$.
+
 See <a href="assets/Slides_Montevideo.pdf"> slides </a> (in spanish)
-or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint about connection points on double regular polygons.
+or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint about connection points on double regular polygons, which has been accepted to the Journal of Modern dynamics!
 
 <h2> Preprints </h2>
 
-(7) Connection points on double regular polygons, 2025.<br>
+(8) Algebraic interaction strength for translation surfaces with several singularities. September 2025.
+ <a href="https://arxiv.org/abs/2509.05210" class="button"> Arxiv</a>
+
+(7) Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024.<br>
+ <a href="https://arxiv.org/abs/2409.01711" class="button"> Arxiv</a>
+
+<h2> Publications </h2>
+<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:422px;margin-left:5px;">
+
+(6) Connection points on double regular polygons, To appear in the <em> Journal of modern dynamics </em> (2025).<br>
  <a href="https://arxiv.org/abs/2501.14657" class="button"> Arxiv</a>
 <div style="display:none;">
 We study connection points on the double regular n-gon translation surface, for n≥7 odd and its staircase model. For n≠9, we provide a large family of points with coordinates in the trace field that are not connection points. This family includes the central points, and for n=7 we conjecture that all the remaining points are connection points. Further, in the case where n≥7 is a prime number, we provide a constructive proof by exhibiting an explicit separatrix passing through a central point that does not extend to a saddle connection. </div>
 
 
-(6) Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024.<br>
- <a href="https://arxiv.org/abs/2409.01711" class="button"> Arxiv</a>
-
-<h2> Publications </h2>
-<img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:422px;margin-left:5px;">
 (5) Algebraic intersection, lengths and Veech surfaces, To appear in the <em> Annali della Scuola Normale Superiore di Pisa - Classe di Scienze </em> (2025).<br>
  <a href="https://arxiv.org/abs/2309.17165" class="button"> Arxiv</a> or <a href="https://journals.sns.it/index.php/annaliscienze/issue/view/forthcoming_articles" class="button"> Journal </a>
 
