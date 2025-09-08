@@ -35,7 +35,7 @@ or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint abo
 <h2> Publications </h2>
 <img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:422px;margin-left:5px;">
 
-(6) Connection points on double regular polygons, To appear in the <em> Journal of modern dynamics </em> (2025).<br>
+(6) Connection points on double regular polygons, Accepted for publication in the <em> Journal of Modern Dynamics </em> (2025).<br>
  <a href="https://arxiv.org/abs/2501.14657" class="button"> Arxiv</a>
 <div style="display:none;">
 We study connection points on the double regular n-gon translation surface, for n≥7 odd and its staircase model. For n≠9, we provide a large family of points with coordinates in the trace field that are not connection points. This family includes the central points, and for n=7 we conjecture that all the remaining points are connection points. Further, in the case where n≥7 is a prime number, we provide a constructive proof by exhibiting an explicit separatrix passing through a central point that does not extend to a saddle connection. </div>
