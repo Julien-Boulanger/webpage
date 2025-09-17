@@ -65,7 +65,7 @@ with Sam Freedman. <em>Comptes rendus Mathematiques</em>. Volume 362 (2024), pp.
 <h2> Teaching </h2>
 I gave several courses during my PhD and my post-doctorate, in french, english and spanish. This semester I am teaching Ecuaciones Diferenciales Ordinarias at the Universidad de Chile.
 
-<h2> Outreach </h2>
+<h2> Academic responsibilities </h2>
 I am now organizing the SIPo (Seminario de Inverstigadores Postdoctorales) of the Center for Mathematical Modeling. Check out the <a href="https://eventos.cmm.uchile.cl/postdocseminars/"> webpage</a>.<br>
 
 I used to organize the <em> Séminaire Compréhensible </em>, which is the PhD seminar of the Institut Fourier. As such, I also organized two two-days conferences (2022 and 2023), the PhD days of the Institut Fourier.
