@@ -62,6 +62,14 @@ with Sam Freedman. <em>Comptes rendus Mathematiques</em>. Volume 362 (2024), pp.
 <a href="https://arxiv.org/abs/2009.01748" class="button"> Arxiv</a> or
 <a href="https://smf.emath.fr/publications/les-points-centraux-du-double-heptagone-ne-sont-pas-des-points-de-connexion" class="button"> Journal</a>
 
+<h2> Teaching </h2>
+I gave several courses during my PhD and my post-doctorate, in french, english and spanish. This semester I am teaching Ecuaciones Diferenciales Ordinarias at the Universidad de Chile.
+
+<h2> Outreach </h2>
+I am now organizing the SIPo (Seminario de Inverstigadores Postdoctorales) of the Center for Mathematical Modeling. Check out the <a href="https://eventos.cmm.uchile.cl/postdocseminars/"> webpage</a>.<br>
+
+I used to organize the <em> Séminaire Compréhensible </em>, which is the PhD seminar of the Institut Fourier. As such, I also organized two two-days conferences (2022 and 2023), the PhD days of the Institut Fourier.
+
 <h2> PhD defense </h2>
 I started my PhD on September 2021 under the supervision of Erwan Lanneau and Daniel Massart and defended in December 2023 at the Institut Fourier, Université Grenoble Alpes. The slides are available [here](/assets/Soutenance.pdf) as well as the [manuscript](/assets/manuscript.pdf). You can also find [here](/assets/fiche_explicative.pdf) a small explication of my work which was meant for non-matematicians attending my PhD defense.
 
