@@ -19,7 +19,7 @@ I am interested in dynamics and geometry of surfaces. I specifically study trans
 continued fractions, combinatorics on words and Anosov dynamics.
 
 <h2> News </h2>
-I'm looking for a postdoc position starting from September 2026, don't hesitate to contact me if you are interested! Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_statement_en.pdf).
+I'm looking for a postdoc position starting from September 2026, don't hesitate to contact me if you are interested! Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 October 2025 - <a href="https://arxiv.org/abs/2510.09584"> New preprint </a> available on arXiv: "The hurwitz problem for abelian differentials". With Rodolfo Gutiérrez-Romo and Erwan Lanneau. The paper studies aims to shed light on the problem of determining the maximal number of translations an abelian differential can have in a given genus. It is known from the work of Schlage-Puchta and Weitze-Schmidthüse that this number is not more than 4(g-4) and that this bound is achieved if and only if g-1 is a multiple of 2 or 3. The purpose of this paper is to study the other genera g, and the possible achievable bounds.
 
