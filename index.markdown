@@ -19,12 +19,20 @@ I am interested in dynamics and geometry of surfaces. I specifically study trans
 continued fractions, combinatorics on words and Anosov dynamics. Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 <h2> News </h2>
+I'm looking for a postdoc position starting from September 2026, don't hesitate to contact me if you are interested!
+
+<a href="https://arxiv.org/abs/2510.09584"> New preprint </a> available on arXiv: "The hurwitz problem for abelian differentials". With Rodolfo Gutiérrez-Romo and Erwan Lanneau. The paper studies aims to shed light on the problem of determining the maximal number of translations an abelian differential can have in a given genus. It is known from the work of Schlage-Puchta and Weitze-Schmidthüse that this number is not more than 4(g-4) and that this bound is achieved if and only if g-1 is a multiple of 2 or 3. The purpose of this paper is to study the other genera g, and the possible achievable bounds.
+
+
 <a href="https://arxiv.org/abs/2509.05210"> New preprint </a> available on arXiv: "Algebraic interaction strength for translation surfaces with several singularities". The paper studies how pairs of curves intersect on families of translation surfaces built from (semi-)regular polygons, and extends the results of my previous work (see (5) and (7) below) to the context where the surface has more than one singularity. In this type of study (but also in the study of the systole, for example), it is often difficult to deal with several singularities as geodesics can change direction at singularities. The main contribution of this paper is to deal with this type of surfaces and study the interaction strength of two families of translation surfaces with two (resp. any number) of singularities: the regular 4m+2-gons and the Bouw-Möller surfaces S_{m,n} with 1 < gcd(m,n) < n.
 
 See <a href="assets/Slides_Montevideo.pdf"> slides </a> (in spanish)
 or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint about connection points on double regular polygons, which has been accepted to the Journal of Modern dynamics!
 
 <h2> Preprints </h2>
+
+(9) The Hurwitz problem for abelian differentials. With Rodolfo Gutiérrez-Romo and Erwan Lanneau. October 2025
+<a href="https://arxiv.org/abs/2510.09584" class="button> ArXiv</a>
 
 (8) Algebraic interaction strength for translation surfaces with several singularities. September 2025.<br>
 <a href="https://arxiv.org/abs/2509.05210" class="button"> Arxiv</a>
