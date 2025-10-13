@@ -31,7 +31,7 @@ or a [very close english version](/assets/Slides_Oregon.pdf) for my preprint abo
 
 <h2> Preprints </h2>
 
-(9) The Hurwitz problem for abelian differentials. With Rodolfo Gutiérrez-Romo and Erwan Lanneau. October 2025.
+(9) The Hurwitz problem for abelian differentials. With Rodolfo Gutiérrez-Romo and Erwan Lanneau. October 2025.<br>
 <a href="https://arxiv.org/abs/2510.09584" class="button"> Arxiv</a>
 
 (8) Algebraic interaction strength for translation surfaces with several singularities. September 2025.<br>
