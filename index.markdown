@@ -37,7 +37,7 @@ I'll be in Europe from may to july 2026, don't hesitate to contact me if you are
 
 (6) Connection points on double regular polygons, <em> Journal of Modern Dynamics </em> Volume 21 (2025), pp. 693-718.<br>
  <a href="https://arxiv.org/abs/2501.14657" class="button"> Arxiv</a> or
-<a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2025016" class="button"> Journal</a> or <a /assets/Slides_Oregon.pdf class="button"> Slides </a>
+<a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2025016" class="button"> Journal</a> or even [Slides](/assets/Slides_Oregon.pdf) that I made for an online talk.
 <div style="display:none;">
 We study connection points on the double regular n-gon translation surface, for n≥7 odd and its staircase model. For n≠9, we provide a large family of points with coordinates in the trace field that are not connection points. This family includes the central points, and for n=7 we conjecture that all the remaining points are connection points. Further, in the case where n≥7 is a prime number, we provide a constructive proof by exhibiting an explicit separatrix passing through a central point that does not extend to a saddle connection. </div>
 
