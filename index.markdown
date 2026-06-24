@@ -19,21 +19,21 @@ I am interested in dynamics and geometry of surfaces. I specifically study trans
 continued fractions, combinatorics on words and Anosov dynamics.
 
 <h2> News </h2>
-I'll be in Europe from may to july 2026, don't hesitate to contact me if you are interested in my research! Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
+I'll be in Europe from February to May 2027, don't hesitate to contact me if you are interested in my research! Here is my [CV](/assets/CV_en.pdf), and a [research statement](/assets/Research_Statement_en.pdf).
 
 <h2> Preprints </h2>
 
 (9) The Hurwitz problem for abelian differentials. With Rodolfo Gutiérrez-Romo and Erwan Lanneau. October 2025.<br>
 <a href="https://arxiv.org/abs/2510.09584" class="button"> Arxiv</a>
 
-(8) Algebraic interaction strength for translation surfaces with several singularities. September 2025.<br>
-<a href="https://arxiv.org/abs/2509.05210" class="button"> Arxiv</a>
-
-(7) Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024.<br>
+(8) Algebraic intersections on Bouw-Möller surfaces, and more general convex polygons, with Irene Pasquinelli, 2024.<br>
  <a href="https://arxiv.org/abs/2409.01711" class="button"> Arxiv</a>  as well as [Slides](/assets/Slides_Leipzig.pdf) that I made for the MPI MIS geometry seminar in Leipzig (also related to the paper (3)).
 
 <h2> Publications </h2>
 <img src="assets/img/double_heptagone.png" alt="The double regular heptagon translation surface" style="float:right;width:391px;height:422px;margin-left:5px;">
+
+(7) Algebraic interaction strength for translation surfaces with several singularities. Accepted for publication at the Glasgow Mathematical Journal (2026).<br>
+<a href="https://arxiv.org/abs/2509.05210" class="button"> Arxiv</a>
 
 (6) Connection points on double regular polygons, <em> Journal of Modern Dynamics </em> Volume 21 (2025), pp. 693-718.<br>
  <a href="https://arxiv.org/abs/2501.14657" class="button"> Arxiv</a> or
@@ -64,7 +64,7 @@ with Sam Freedman. <em>Comptes rendus Mathematiques</em>. Volume 362 (2024), pp.
 <a href="https://smf.emath.fr/publications/les-points-centraux-du-double-heptagone-ne-sont-pas-des-points-de-connexion" class="button"> Journal</a>
 
 <h2> Teaching </h2>
-I gave several courses during my PhD and my post-doctorate, in french, english and spanish. This semester I am teaching Ecuaciones Diferenciales Ordinarias at the Universidad de Chile.
+I gave several courses during my PhD and my post-doctorate, in french, english and spanish.
 
 <h2> Academic responsibilities </h2>
 I am now organizing the SIPo (Seminario de Inverstigadores Postdoctorales) of the Center for Mathematical Modeling. Check out the <a href="https://eventos.cmm.uchile.cl/postdocseminars/"> webpage</a>.<br>
